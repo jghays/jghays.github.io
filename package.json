@@ -1,0 +1,22 @@
+{
+  "name": "tp-reactjs",
+  "version": "1.0.0",
+  "description": "package for tutorialspoint reactjs tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "do-test"
+  },
+  "author": "jh",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jghays/tp-reactjs.github.io.git"
+  }
+}
