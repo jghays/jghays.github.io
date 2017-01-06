@@ -4,7 +4,7 @@
   "description": "package for tutorialspoint reactjs tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "do-test"
+    "start": "webpack-dev-server --hot"
   },
   "author": "jh",
   "license": "ISC",
